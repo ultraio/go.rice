@@ -1,4 +1,4 @@
-module github.com/ultraio/go.rice
+module github.com/GeertJohan/go.rice
 
 go 1.12
 
@@ -12,3 +12,5 @@ require (
 	github.com/valyala/fasttemplate v1.0.1
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 )
+
+replace github.com/GeertJohan/go.rice => github.com/ultraio/go.rice v1.0.0
