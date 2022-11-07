@@ -10,4 +10,5 @@ require (
 	github.com/jessevdk/go-flags v1.4.0
 	github.com/nkovacs/streamquote v0.0.0-20170412213628-49af9bddb229
 	github.com/valyala/fasttemplate v1.0.1
+	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 )
